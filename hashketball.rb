@@ -334,6 +334,5 @@ if stealer==long_name
   return true
 else false
 end
-binding.pry
+
 end
-binding.pry
